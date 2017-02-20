@@ -1,0 +1,18 @@
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.content {
+  padding: 0;
+}
+
+#shiny-tab-companies, #shiny-tab-aggregators {
+  height: 100%;
+}
+
+
+#companiesMap, #aggregatorsMap {
+  height: calc(100vh - 50px) !important;
+}
